@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CLVGLSwift",
+        "repositoryURL": "https://github.com/mr-j-tree/CLVGLSwift.git",
+        "state": {
+          "branch": "main",
+          "revision": "b8e892e602fdac655953800f24c76c967c132e90",
+          "version": null
+        }
+      },
+      {
+        "package": "SDL",
+        "repositoryURL": "https://github.com/PureSwift/SDL.git",
+        "state": {
+          "branch": "master",
+          "revision": "980f6563ff37686b6b60cd3e651e64cc092c4038",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
